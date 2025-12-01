@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
-Name:Adi Baluch
+Name:Ali Ansari
 UIN:251P011
 Class: Computer C1
 */
