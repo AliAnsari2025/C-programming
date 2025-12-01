@@ -1,9 +1,9 @@
 #include <stdio.h>
 /*
- Name= Adi Baluch
+ Name= Ali Ansari
     class= computer C1
     division= C
-    UIN= 251P012
+    UIN= 251P011
 */
 int main() {
 int n;
