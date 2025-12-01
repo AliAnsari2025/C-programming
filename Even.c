@@ -2,10 +2,10 @@
 int main()
 {
     /*
-    Name= Adi A.M. Baluch
+    Name= Ali Ansari
     Div= C(1)
     Age= 18
-    UIN= 251P012
+    UIN= 251P011
     Class= Computer Engineer FE
     */
     int num;
